@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/glpzzz/mern-tutorial-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/glpzzz/mern-tutorial-frontend
